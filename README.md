@@ -11,6 +11,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-green)
 ![pandas](https://img.shields.io/badge/pandas-2.x-darkblue)
 ![numpy](https://img.shields.io/badge/numpy-1.26+-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
@@ -158,3 +159,19 @@ pipeline_ml_mlflow/
 - **`StandardScaler`**: normaliza as features para media 0 e desvio 1 - obrigatorio para modelos lineares
 - **`Stratify`**: garante que a proporcao de classes no treino e teste seja a mesma do dataset original
 - **`Alias champion`**: padrao de producao MLflow - separa "qual versao existe" de "qual versao esta ativa"
+
+---
+
+## `Licença`
+
+Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
+
+---
+
+## `Autor`
+
+**Arthur Baptista dos Santos**
+RM 565346 — Inteligência Artificial · FIAP 2025–2026
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Baptista-0077B5?logo=linkedin)](https://linkedin.com/in/arthur-baptista-dos-santos)
+[![GitHub](https://img.shields.io/badge/GitHub-Arthur--Baptista--dos--Santos-181717?logo=github)](https://github.com/Arthur-Baptista-dos-Santos)
