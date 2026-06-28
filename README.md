@@ -162,6 +162,14 @@ pipeline_ml_mlflow/
 
 ---
 
+## `Demonstração`
+
+**Comparação dos 4 modelos** — `random_forest` e `gradient_boosting` atingem accuracy perfeita no teste; regressão logística lidera em CV mean (0.9931), indicando melhor generalização.
+
+![Comparação de Modelos](docs/screenshots/comparacao-modelos.png)
+
+---
+
 ## `Licença`
 
 Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
